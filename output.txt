@@ -1,0 +1,37 @@
+Created packagesCreated garagesCreated trucksRunning scenario:Closest package: P0 location (1, 0)Path cost: 1--------------------------------------------------------
+Truck: 0  |  Location: (0, 0)  |  At Garage: True
+Status: Finding the next closest package--------------------------------------------------------
+Truck: 0  |  Location: (0, 0)  |  At Garage: True
+Status: Navigating to package (1, 0)--------------------------------------------------------
+Truck: 0  |  Location: (1, 0)  |  At Garage: False
+Status: Navigating to package (1, 0)--------------------------------------------------------
+Truck: 0  |  Location: (1, 0)  |  At Garage: False
+Status: Picking up P0 and finding a path to its destination.--------------------------------------------------------
+Truck: 0  |  Location: (1, 0)  |  At Garage: False
+Status: Navigating to package's destination (1, 1)--------------------------------------------------------
+Truck: 0  |  Location: (1, 1)  |  At Garage: False
+Status: Navigating to package's destination (1, 1)--------------------------------------------------------
+Truck: 0  |  Location: (1, 1)  |  At Garage: False
+Status: Dropping off P0
+
+
+
+|----------------------------------|| Problem variables                ||----------------------------------|| Graph dimensions:         (2, 2) || Graph noise:                0.45 || Number of packages:            1 || Number of trucks:              1 || Number of garages:             1 ||----------------------------------|| TIME to complete                 ||----------------------------------|| Total time:               42.067 || Graph creation:            0.000 || Making packages:           0.000 || Making garages:            0.000 || Making trucks:             0.000 || Searching:                 0.000 ||----------------------------------|Created packagesCreated garagesCreated trucksRunning scenario:Closest package: P0 location (0, 1)Path cost: 1--------------------------------------------------------
+Truck: 0  |  Location: (0, 0)  |  At Garage: True
+Status: Finding the next closest package--------------------------------------------------------
+Truck: 0  |  Location: (0, 0)  |  At Garage: True
+Status: Navigating to package (0, 1)--------------------------------------------------------
+Truck: 0  |  Location: (0, 1)  |  At Garage: False
+Status: Navigating to package (0, 1)--------------------------------------------------------
+Truck: 0  |  Location: (0, 1)  |  At Garage: False
+Status: Picking up P0 and finding a path to its destination.--------------------------------------------------------
+Truck: 0  |  Location: (0, 1)  |  At Garage: False
+Status: Navigating to package's destination (0, 0)--------------------------------------------------------
+Truck: 0  |  Location: (0, 0)  |  At Garage: True
+Status: Navigating to package's destination (0, 0)--------------------------------------------------------
+Truck: 0  |  Location: (0, 0)  |  At Garage: True
+Status: Dropping off P0
+
+
+
+|----------------------------------|| Problem variables                ||----------------------------------|| Graph dimensions:         (2, 2) || Graph noise:                0.45 || Number of packages:            1 || Number of trucks:              1 || Number of garages:             1 ||----------------------------------|| TIME to complete                 ||----------------------------------|| Total time:               42.097 || Graph creation:            0.000 || Making packages:           0.000 || Making garages:            0.000 || Making trucks:             0.000 || Searching:                 0.000 ||----------------------------------|
